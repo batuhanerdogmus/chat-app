@@ -1,0 +1,16 @@
+.chat_container{
+    position: relative;
+    overflow: scroll;
+    margin-bottom: 2em;
+}
+.chat_container form{
+    position: fixed;
+    width: 75%;
+    bottom: 0;
+}
+.chat_container input{
+    width: 90%;
+}
+.chat_container button{
+    width: 10%;
+}
